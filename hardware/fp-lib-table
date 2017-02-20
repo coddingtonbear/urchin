@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name open-project)(type Legacy)(uri "$(KIPRJMOD)/open-project.mod")(options "")(descr ""))
+  (lib (name urchin)(type KiCad)(uri "$(KIPRJMOD)/urchin.pretty")(options "")(descr ""))
+)
