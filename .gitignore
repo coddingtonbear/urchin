@@ -13,3 +13,4 @@ driver/lib
 driver/bin
 driver/include
 *.DS_Store
+hardware/*.pdf
