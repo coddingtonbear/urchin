@@ -654,12 +654,12 @@ Connection ~ 7100 2200
 Wire Wire Line
 	6900 2200 7450 2200
 $Comp
-L C C?
+L C C8
 U 1 1 58AB6416
 P 6900 2050
-F 0 "C?" H 7015 2096 50  0000 L CNN
+F 0 "C8" H 7015 2096 50  0000 L CNN
 F 1 "100u" H 7015 2005 50  0000 L CNN
-F 2 "" H 6938 1900 50  0000 C CNN
+F 2 "apexelectrix/apex-smd-resistors.pretty:R_1206_HandSoldering" H 6938 1900 50  0001 C CNN
 F 3 "" H 6900 2050 50  0000 C CNN
 	1    6900 2050
 	1    0    0    -1  
