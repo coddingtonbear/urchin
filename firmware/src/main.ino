@@ -142,7 +142,7 @@
 // Configure the baud rate:
 
 #define BAUDRATE	19200
-// #define BAUDRATE	115200
+//#define BAUDRATE	115200
 // #define BAUDRATE	1000000
 
 
