@@ -23,4 +23,6 @@ from the default 12MHz settings in only the Low bit having CKOUT enabled.
 
 ## Enclosure
 
-You can also find a 3d-printable enclosure in the 'enclosure' folder.
+You can also find a 3d-printable enclosure in the 'enclosure' folder. I
+recommend a clear filament (I used T-Glase) so you can see the glow
+of the LED.
